@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset=”UTF-8”>
+	<lang>en</lang>
+	<img><img src="https://m.media-amazon.com/images/I/81P3lDJbjCL._AC_SL1347_.jpg">
+	<title>My Favourite Movie: Star Wars Empire Strikes Back</title>
+<!--Jan 28, 2023 created header and main body, need to figure out images and language-->
+<!--Jan 31, 2023 figured out how to add images and change the language-->
+</head>
+<body>
+	<p><h1>The second movie in the original Star wars trilogy.</h1></p>
+	<p> <em>Casting</em> 
+		<div>Mark Hamill as Luke Skywalker, Harrison Ford as Han Solo, Carrie Fisher as Leia Organa, Alec Guinness as Obi-Wan Kenobi, Peter Mayhew as Chewbacca, David Prowse as Darth Vader, Kenny Baker as R2-D2</div>
+		<div>Anthony Daniels as C-3PO, Billy Dee Williams as Lando Calrissian, Frank Oz as Yoda, Jeremy Bulloch as Boba Fett, Clive Revil as the Emperor</div></p>
+	<p><em>Best lines</em>
+		<div> No, I am your father</div>
+		<div> Do or do not, there is no try</div></p>
+	<p><em>Ratings</em>
+		<div>Story 5/5</div>
+		<div>Cast 4.5/5</div>
+		<div>Effects 4/5</div>
+		<div>Musical Score 5/5</div></p>
+<!--Jan 30, 2023 added headers to paragraphs and used divisions to seperate lines-->
+<!--Jan 31, 2024 added the ratings and finished cleaning up the appearance-->
+</body>
+<footer> Colin Gardner Feb 10th </footer>
+</html>
